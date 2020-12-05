@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    (he/his)
+
+    Undergraduate student studying Biochemistry at UBC
