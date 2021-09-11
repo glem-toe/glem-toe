@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
     (he/his)
 
-    Undergraduate student studying Biochemistry at UBC.
+    Undergraduate student studying Computer Science at UBC.
     
     I am DEEP in the rabbit hole.
